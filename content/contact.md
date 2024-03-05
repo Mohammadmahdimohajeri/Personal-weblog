@@ -5,8 +5,8 @@ slug = "contact"
 
 Email : mohammadk21@gmail.com .
 
-Telegram : @M_Code_Dev
+Telegram : https://m_code_dev.t.me/
 
 Instagram : *https://instagram.com/m.code.dev2024
 
-i check everything ✔
+I check everything ✔

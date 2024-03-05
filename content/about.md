@@ -18,10 +18,9 @@ author = "Hugo Authors"
  you can learn more about me in social media like instagram and...
  
  
- Thank for read this :) 
+ Thank for reading this :) 
  
- this is my social media account 🐧
+ You can find me on:🐧
  
 [GitHub](https://github.com/Mohammadmahdimohajeri).           [instagram](https://instagram.com/m.code.dev2024)           [X(twitter)](https://twitter.com/mohammadmo98074) 
 [Youtube](https://www.youtube.com/c/mohammad%20mohajeri) [linkedin](https://www.linkedin.com/in/mohammad%20mohajeri) 
-<a href="https://instagram.com/m.code.dev2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.code.dev2024" height="30" width="40" /></a>
